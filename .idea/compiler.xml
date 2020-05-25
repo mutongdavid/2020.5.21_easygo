@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="easygo-admin" />
+        <module name="easygo-admin-web" />
+        <module name="easygo-brand-service" />
+        <module name="easygo-commons" />
+        <module name="easygo-eureka" />
+        <module name="easygo-pojo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="2020.5.21_easygo" target="1.8" />
+      <module name="easygo-admin" target="1.8" />
+      <module name="easygo-admin-web" target="1.8" />
+      <module name="easygo-brand-service" target="1.8" />
+      <module name="easygo-commons" target="1.8" />
+      <module name="easygo-eureka" target="1.8" />
+      <module name="easygo-pojo" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
